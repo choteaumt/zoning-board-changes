@@ -1570,3 +1570,24 @@ The provisions of §§ 153.93 and 153.94 of this subchapter notwithstanding, if 
 3.  Nothing contained herein prevents the city from taking such other lawful action as is necessary to prevent or remedy any violation.
 
 (Prior Code, § 9-2-22) (Ord. 304, passed 4-10-2012)
+
+153.100 MCA Compliance
+
+_Purpose._ The purpose of this section is to bring the City of Choteau Zoning code up to compliance with the Montana Code Annotated changes enacted by the 2023 legisature.
+1. SB 178 Digital mining facilities.
+    1. shall be treated the same as data centers
+    2. shall be allowed to operate in GI General Industrial
+    4. Shall be allowed in R Residential
+        1. but shall comply with noise ordinances
+2. SB 331 Condo/townhome subdivision exemption
+    1. Condos and townhomes shall be exempt from from subdivision requirements
+        1. shall be in conformance with zoning regulations pertaining to land use, density, bulk and dimensional requirements, landscaping, and parking requirements.
+        2. shall have a 20-working day expemption review
+3. HB 211 Subsequent Hearing Requirments
+    1. Hearings
+        1. Hearings shall only be necessary if new information is provided or;
+        2. Change in design of the subdivision is significant or;
+        3. Has a substantial effect on the Zoning Commission or City Council's consideration of the subdivision.
+    2. The required hearings for subsequent phases 
+    3. Expedited review appies if the request for variance or deviation from subdivision regulations.
+4. SB 131 
