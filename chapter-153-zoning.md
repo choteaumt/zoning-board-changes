@@ -378,45 +378,17 @@ No individual, including members of the City Council, Board of Adjustment, Zonin
 
 The following zoning districts and overlay are hereby established and are applicable to lands within the city as depicted on the official zoning map. For purposes of applying the zoning districts and interpreting their regulations according to the provisions of this chapter, these zoning districts have been formulated to implement the growth policy for the city and to realize the general purposes of the Zoning Code set forth herein. The districts and overlay shall be named and designated as follows:
 
-**District Name**  
-
-**Map Designation**  
-
-A Residential  
-
-A
-
-Airport Planned Development  
-
-APD
-
-B Residential  
-
-B
-
-BR Business/Residential  
-
-BR
-
-Casino/Adult Use Overlay  
-
-C/AU
-
-CB Central Business  
-
-CB
-
-GI General Industrial  
-
-GI
-
-HB Highway Business  
-
-HB
-
-Public/Semi-Public  
-
-P/SP
+| **District Name**           | **Map Designation** |
+| --------------------------- | ------------------- |
+| A Residential               | A                   |
+| Airport Planned Development | APD                 |
+| B Residential               | B                   |
+| BR Business/Residential     | BR                  |
+| Casino/Adult Use Overlay    | C/AU                |
+| CB Central Business         | CB                  |
+| GI General Industrial       | GI                  |
+| HB Highway Business         | HB                  |
+| Public/Semi-Public          | P/SP                |
 
 (Prior Code, § 9-3-1) (Ord. 304, passed 4-10-2012)  
 
@@ -1053,132 +1025,47 @@ All outdoor lighting shall be downcast and shielded. No light trespass shall be 
     4.  _Required off-street parking spaces_. The minimum number of parking spaces by land use is as follows:  
           
         
-        **Commercial**  
+        ## Commercial
         
-        Auto repair/quick lube  
-        
-        1 space per service bay  
-        
-        Bed and breakfast or suite  
-        
-        2 spaces plus 1 space per rentable room  
-        
-        Childcare (commercial)  
-        
-        1 space for every 10 children permitted based on total gross floor area and facilities; drop off area  
-        
-        Hotel/motel  
-        
-        1 space per room or suite  
-        
-        Restaurants (high turnover)  
-        
-        1 space per 3 seats  
-        
-        Restaurants (sit down)  
-        
-        1 space per 4 seats  
-        
-        Retail (general and specialty)  
-        
-        1 space per 250 gsf (gross square feet)  
-        
-        Retail (home furnishings/home improvement)  
-        
-        1 space per 600 gsf  
-        
-        Taverns  
-        
-        1 space per 4 seats table space, 1 space per 2 bar seats  
-        
-        Theaters and other assembly  
-        
-        1 space per 4 seats  
-        
-        Veterinary clinic  
-        
-        1 space per 400 gsf  
-        
-        **Industrial**  
-        
-        Manufacturing/assembly/fabrication  
-        
-        1 space per 800 gsf of active production area  
-        
-        Warehousing/distribution  
-        
-        1 space per 2,000 gsf  
-        
-        **Office**  
-        
-        General/agency/professional office  
-        
-        3 spaces per 1,000 gsf  
-        
-        Medical/dental  
-        
-        1 space per 250 gsf  
-        
-        **Public/Semi-Public**  
-        
-        Churches  
-        
-        1 space per 4 seats in main assembly area  
-        
-        Government offices  
-        
-        Determined by function  
-        
-        Recreation center/facility  
-        
-        Determined by function  
-        
-        **Residential**  
-        
-        1 bedroom units, including “efficiency apartments”  
-        
-        1 space per unit  
-        
-        Accessory residential unit (ARU)  
-        
-        1 space per unit  
-        
-        All other multi-family units  
-        
-        1.5 spaces per unit  
-        
-        Multi-family elderly  
-        
-        1 space per unit  
-        
-        One- and two-family residential, including town homes, manufactured, and mobile units  
-        
-        2 spaces per unit  
+        | Auto repair/quick lube                                                                | 1 space per service bay                                                                               |
+| ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Bed and breakfast or suite                                                            | 2 spaces plus 1 space per rentable room                                                               |
+| Childcare (commercial)                                                                | 1 space for every 10 children permitted based on total gross floor area and facilities; drop off area |
+| Hotel/motel                                                                           | 1 space per room or suite                                                                             |
+| Restaurants (high turnover)                                                           | 1 space per 3 seats                                                                                   |
+| Restaurants (sit down)                                                                | 1 space per 4 seats                                                                                   |
+| Retail (general and specialty)                                                        | 1 space per 250 gsf (gross square feet)                                                               |
+| Retail (home furnishings/home improvement)                                            | 1 space per 600 gsf                                                                                   |
+| Taverns                                                                               | 1 space per 4 seats table space, 1 space per 2 bar seats                                              |
+| Theaters and other assembly                                                           | 1 space per 4 seats                                                                                   |
+| Veterinary clinic                                                                     | 1 space per 400 gsf                                                                                   |
+| **Industrial**                                                                        |                                                                                                       |
+| Manufacturing/assembly/fabrication                                                    | 1 space per 800 gsf of active production area                                                         |
+| Warehousing/distribution                                                              | 1 space per 2,000 gsf                                                                                 |
+| **Office**                                                                            |                                                                                                       |
+| General/agency/professional office                                                    | 3 spaces per 1,000 gsf                                                                                |
+| Medical/dental                                                                        | 1 space per 250 gsf                                                                                   |
+| **Public/Semi-Public**                                                                |                                                                                                       |
+| Churches                                                                              | 1 space per 4 seats in main assembly area                                                             |
+| Government offices                                                                    | Determined by function                                                                                |
+| Recreation center/facility                                                            | Determined by function                                                                                |
+| **Residential**                                                                       |                                                                                                       |
+| 1 bedroom units, including “efficiency apartments”                                    | 1 space per unit                                                                                      |
+| Accessory residential unit (ARU)                                                      | 1 space per unit                                                                                      |
+| All other multi-family units                                                          | 1.5 spaces per unit                                                                                   |
+| Multi-family elderly                                                                  | 1 space per unit                                                                                      |
+| One- and two-family residential, including town homes, manufactured, and mobile units | 2 spaces per unit                                                                                     |
         
 7.  _Handicap accessible parking_.
     1.  _Handicap accessible spaces required_. Handicap accessible off-street parking shall be required according to the following schedule:  
           
         
-        **Total Spaces Provided**  
-        
-        **Handicap Accessible Spaces (Minimum)**  
-        
-        5 to 20
-        
-        1
-        
-        21 to 40
-        
-        2
-        
-        41 to 65
-        
-        3
-        
-        65+
-        
-        3% of total spaces required  
-        
+| **Total Spaces Provided** | **Handicap Accessible Spaces (Minimum)** |
+| ------------------------- | ---------------------------------------- |
+| 5 to 20                   | 1                                        |
+| 21 to 40                  | 2                                        |
+| 41 to 65                  | 3                                        |
+| 65+                       | 3% of total spaces required              |
     2.  _Van accessible spaces_. One out of each eight accessible spaces provided, but at least one space in each parking facility, shall be van accessible.
     3.  _Location_. Accessible parking spaces shall be located so as to provide the shortest accessible route to a primary building entrance.
     4.  _Curb ramps and accessible routes_. Curb ramps and accessible routes shall be provided which allow unobstructed travel from an accessible parking space to an accessible entrance. Parked vehicle overhangs shall not reduce the clear width of an accessible route. Parking spaces and access aisles shall not exceed 2% grade in all directions.
