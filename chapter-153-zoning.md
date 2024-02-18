@@ -1023,11 +1023,11 @@ All outdoor lighting shall be downcast and shielded. No light trespass shall be 
     2.  _On-street parking_. No credit against the required off-street parking shall be allowed for on street spaces.
     3.  _Uses not specifically listed_. For uses not listed in the space requirements set forth in this subsection, the Zoning Administrator shall determine the appropriate requirement based upon any similar uses that are listed and/or upon research.
     4.  _Required off-street parking spaces_. The minimum number of parking spaces by land use is as follows:  
-          
-        
-        ## Commercial
-        
-        | Auto repair/quick lube                                                                | 1 space per service bay                                                                               |
+
+     
+## Commercial
+
+| Auto repair/quick lube                                                                | 1 space per service bay                                                                               |
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | Bed and breakfast or suite                                                            | 2 spaces plus 1 space per rentable room                                                               |
 | Childcare (commercial)                                                                | 1 space for every 10 children permitted based on total gross floor area and facilities; drop off area |
@@ -1057,6 +1057,7 @@ All outdoor lighting shall be downcast and shielded. No light trespass shall be 
 | One- and two-family residential, including town homes, manufactured, and mobile units | 2 spaces per unit                                                                                     |
         
 7.  _Handicap accessible parking_.
+
     1.  _Handicap accessible spaces required_. Handicap accessible off-street parking shall be required according to the following schedule:  
           
         
